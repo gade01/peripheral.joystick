@@ -17,7 +17,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 4.9\n"
 
-#, fuzzy
 msgctxt "Addon Summary"
 msgid "Kodi Joystick Library"
 msgstr "Bibliothèque de joystick Kodi"
@@ -26,6 +25,7 @@ msgctxt "Addon Description"
 msgid "This library provides joystick drivers and button maps. Multiple joystick APIs are supported, including DirectX, XInput, SDL and the Linux Joystick API."
 msgstr ""
 
+#, fuzzy
 msgctxt "#30000"
 msgid "Driver settings"
 msgstr "Paramètres des pilotes"
